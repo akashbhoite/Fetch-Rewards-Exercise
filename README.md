@@ -8,3 +8,6 @@ pip install pandas-profiling
 
 ### Tableau Dashboard with more insights
 https://public.tableau.com/app/profile/akash.bhoite/viz/Dashboard_16255910898940/Story1
+
+#### Open the .drawio file using the following website
+www.draw.io
